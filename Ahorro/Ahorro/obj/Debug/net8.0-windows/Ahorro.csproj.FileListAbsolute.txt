@@ -1,0 +1,17 @@
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Desafio 2\Ahorro\Ahorro\obj\Debug\net8.0-windows\Ahorro.AhorroDisponible.resources
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Desafio 2\Ahorro\Ahorro\obj\Debug\net8.0-windows\Ahorro.Properties.Resources.resources
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Desafio 2\Ahorro\Ahorro\obj\Debug\net8.0-windows\Ahorro.csproj.GenerateResource.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Desafio 2\Ahorro\Ahorro\obj\Debug\net8.0-windows\Ahorro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Desafio 2\Ahorro\Ahorro\obj\Debug\net8.0-windows\Ahorro.AssemblyInfoInputs.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Desafio 2\Ahorro\Ahorro\obj\Debug\net8.0-windows\Ahorro.AssemblyInfo.cs
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Desafio 2\Ahorro\Ahorro\obj\Debug\net8.0-windows\Ahorro.csproj.CoreCompileInputs.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Desafio 2\Ahorro\Ahorro\bin\Debug\net8.0-windows\Ahorro.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Desafio 2\Ahorro\Ahorro\bin\Debug\net8.0-windows\Ahorro.deps.json
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Desafio 2\Ahorro\Ahorro\bin\Debug\net8.0-windows\Ahorro.runtimeconfig.json
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Desafio 2\Ahorro\Ahorro\bin\Debug\net8.0-windows\Ahorro.dll
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Desafio 2\Ahorro\Ahorro\bin\Debug\net8.0-windows\Ahorro.pdb
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Desafio 2\Ahorro\Ahorro\obj\Debug\net8.0-windows\Ahorro.dll
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Desafio 2\Ahorro\Ahorro\obj\Debug\net8.0-windows\refint\Ahorro.dll
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Desafio 2\Ahorro\Ahorro\obj\Debug\net8.0-windows\Ahorro.pdb
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Desafio 2\Ahorro\Ahorro\obj\Debug\net8.0-windows\Ahorro.genruntimeconfig.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Desafio 2\Ahorro\Ahorro\obj\Debug\net8.0-windows\ref\Ahorro.dll
